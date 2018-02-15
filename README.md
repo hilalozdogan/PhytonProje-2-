@@ -51,8 +51,8 @@ Aşağıda belirli bir durum için örnek bir çıktı formatı verilmiştir. Fa
 
 #### 2) Blackjack (21) Oyunu Simülasyonu
 Bilgisayar dağıtıcı, kullanıcı ise oyuncu rolünü oynamalıdır. Önce dağıtıcının açık olan kağıdının grubu ve ismi ile oyuncunun ilk 2 kağıdının grubu ve ismi ile toplam puanı ekranda görüntülenmelidir. İlk olarak sıra oyuncudadır. Oyuncu Blackjack yapmışsa sıra dağıtıcıya geçmelidir, yapmamışsa kağıt isteyip istemediği sorulmalıdır. Oyuncu batarsa ya da pas derse, sıra dağıtıcıya geçmelidir. Oyuncu batmışsa dağıtıcı oyunu kazanmalı, batmamışsa yukarıda bahsedilen kurallara göre dağıtıcı yeni kağıt almalı ya da durmalıdır. Her adımda oyuncunun/dağıtıcının elindeki kağıtların grubu ile ismi, toplam puanı ve yukarıda bahsedilen bir özel durum oluştuysa bu durumla ilgili bilgi mesajı görüntülenmelidir. Oyun sonunda sonuç (“oyuncu kazandı”, “dağıtıcı kazandı”, “berabere”) görüntülenmelidir.
-**Örnek Çıktı:**
-Aşağıda belirli bir durum için örnek bir çıktı formatı verilmiştir. Farklı durumlarda başka çıktı formatları söz konusu olabilecektir. Ayrıca, herkes kendi çıktı formatını da oluşturabilir. Burada amaçlanan, oyunun durumunu açık ve anlaşılır bir şekilde ekranda göstermek olmalıdır.
+
+**Örnek Çıktı:** Aşağıda belirli bir durum için örnek bir çıktı formatı verilmiştir. Farklı durumlarda başka çıktı formatları söz konusu olabilecektir. Ayrıca, herkes kendi çıktı formatını da oluşturabilir. Burada amaçlanan, oyunun durumunu açık ve anlaşılır bir şekilde ekranda göstermek olmalıdır.
 
 - Dağıtıcının Açık Kağıdı: Maça Kız
 - Oyuncunun Kağıtları: Karo As, Maça Dört (Toplam 5 ya da 15)
